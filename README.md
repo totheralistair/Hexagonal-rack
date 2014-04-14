@@ -23,4 +23,4 @@ A test run is a simple:
 
 will do the trick. Now just open [http://localhost:4567/].
 
-# Enjoy!
+### Enjoy!
