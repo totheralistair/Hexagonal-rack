@@ -21,6 +21,6 @@ A test run is a simple:
 
   ruby src/handle_thru_sinatra.rb
 
-will do the trick. Now just open [http://localhost:4567/].
+will do the trick. Now just open (http://localhost:4567/).
 
 ### Enjoy!
